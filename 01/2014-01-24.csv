@@ -1,0 +1,17 @@
+sep=;
+Version CSV1|Tool WEBBOX|Linebreaks CR/LF|Delimiter semicolon|Decimalpoint comma|Precision 2
+
+;Sunny WebBox;Sunny WebBox;Sunny WebBox;Sunny WebBox;Sunny WebBox;SN: 24108 (Poly Silicon Sensorbox);SN: 24108 (Poly Silicon Sensorbox);SN: 24108 (Poly Silicon Sensorbox);SN: 24108 (Poly Silicon Sensorbox);SN: 24108 (Poly Silicon Sensorbox);SN: 25449 (Sanyo Sensorbox);SN: 25449 (Sanyo Sensorbox);SN: 25449 (Sanyo Sensorbox);SN: 25449 (Sanyo Sensorbox);SN: 25449 (Sanyo Sensorbox);SN: 25464 (SulfurCell Sensorbox);SN: 25464 (SulfurCell Sensorbox);SN: 25464 (SulfurCell Sensorbox);SN: 25464 (SulfurCell Sensorbox);SN: 25464 (SulfurCell Sensorbox);SN: 25562 (Amorphous sensorbox);SN: 25562 (Amorphous sensorbox);SN: 25562 (Amorphous sensorbox);SN: 25562 (Amorphous sensorbox);SN: 25562 (Amorphous sensorbox)
+;WebBox-20;WebBox-20;WebBox-20;WebBox-20;WebBox-20;SensorBox;SensorBox;SensorBox;SensorBox;SensorBox;SensorBox;SensorBox;SensorBox;SensorBox;SensorBox;SensorBox;SensorBox;SensorBox;SensorBox;SensorBox;SensorBox;SensorBox;SensorBox;SensorBox;SensorBox
+;155015309;155015309;155015309;155015309;155015309;24108;24108;24108;24108;24108;25449;25449;25449;25449;25449;25464;25464;25464;25464;25464;25562;25562;25562;25562;25562
+;Env.HorWSpd;Env.TmpVal;Env.TotInsol;Mdul.TmpVal;Operation.Health;Env.HorWSpd;Env.TmpVal;Env.TotInsol;Mdul.TmpVal;Operation.Health;Env.HorWSpd;Env.TmpVal;Env.TotInsol;Mdul.TmpVal;Operation.Health;Env.HorWSpd;Env.TmpVal;Env.TotInsol;Mdul.TmpVal;Operation.Health;Env.HorWSpd;Env.TmpVal;Env.TotInsol;Mdul.TmpVal;Operation.Health
+;Analog;Analog;Analog;Analog;Status;Analog;Analog;Analog;Analog;Status;Analog;Analog;Analog;Analog;Status;Analog;Analog;Analog;Analog;Status;Analog;Analog;Analog;Analog;Status
+dd.MM.yyyy HH:mm;m/s;°C;W/m²;°C;;m/s;°C;W/m²;°C;;m/s;°C;W/m²;°C;;m/s;°C;W/m²;°C;;m/s;°C;W/m²;°C;
+24.01.2014 23:20;0,28;-198,10;0,00;26,00;Ok;1,13;26,90;0,00;25,80;Ok;0,00;-273,10;0,00;25,60;Ok;0,00;-273,10;0,00;27,30;Ok;0,00;-273,10;0,00;25,50;Ok
+24.01.2014 23:25;0,28;-198,10;0,00;25,90;Ok;0,82;26,80;0,00;25,60;Ok;0,00;-273,10;0,00;25,60;Ok;0,00;-273,10;0,00;27,20;Ok;0,00;-273,10;0,00;25,40;Ok
+24.01.2014 23:30;0,38;-198,10;0,00;25,90;Ok;1,55;26,80;0,00;25,70;Ok;0,00;-273,10;0,00;25,50;Ok;0,00;-273,10;0,00;27,10;Ok;0,00;-273,10;0,00;25,40;Ok
+24.01.2014 23:35;0,33;-198,10;0,00;25,80;Ok;1,33;26,70;0,00;25,60;Ok;0,00;-273,10;0,00;25,50;Ok;0,00;-273,10;0,00;27,00;Ok;0,00;-273,10;0,00;25,40;Ok
+24.01.2014 23:40;0,22;-198,10;0,00;25,80;Ok;0,88;26,70;0,00;25,60;Ok;0,00;-273,10;0,00;25,40;Ok;0,00;-273,10;0,00;27,00;Ok;0,00;-273,10;0,00;25,40;Ok
+24.01.2014 23:45;0,37;-198,10;0,00;25,80;Ok;1,48;26,70;0,00;25,60;Ok;0,00;-273,10;0,00;25,40;Ok;0,00;-273,10;0,00;27,00;Ok;0,00;-273,10;0,00;25,30;Ok
+24.01.2014 23:50;0,33;-198,10;0,00;25,80;Ok;1,35;26,60;0,00;25,60;Ok;0,00;-273,10;0,00;25,50;Ok;0,00;-273,10;0,00;27,00;Ok;0,00;-273,10;0,00;25,40;Ok
+24.01.2014 23:55;0,26;-198,10;0,00;25,80;Ok;1,05;26,60;0,00;25,50;Ok;0,00;-273,10;0,00;25,50;Ok;0,00;-273,10;0,00;26,90;Ok;0,00;-273,10;0,00;25,40;Ok
